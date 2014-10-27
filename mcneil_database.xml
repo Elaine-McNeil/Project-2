@@ -1,0 +1,2563 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" version="2.0" href="mcneil_xsl.xsl" ?>
+
+<kpop-artists>
+	<artist>
+		<artist-name>2NE1</artist-name>
+		<label>YG Entertainment</label>
+			<members>
+				<member-name><leader>CL</leader></member-name>
+				<member-name>Minzy</member-name>
+				<member-name>Dara</member-name>	
+				<member-name>Bom</member-name>
+			</members>
+		<debut>May 2009</debut>
+		<discography>
+			<studio-albums>
+				<album>
+				<album-name>To Anyone</album-name>
+					<release-date>September 9, 2010</release-date>
+					<album-songs>
+						<song>Can't Nobody</song>
+						<song>Go Away</song>
+						<song>Clap Your Hands</song>
+						<song>I'm Busy</song>
+						<song>It Hurts (Slow)</song>
+						<song>Love is Ouch</song>
+						<song>You and I (Bom Solo)</song>
+						<song>Please Don't Go (CL and Minzy)</song>
+						<song>Kiss (Dara Solo ft. CL)</song>
+						<song>Try to Follow Me</song>
+						<song>I Don't Care (Reggae Remix)</song>
+						<song>Can't Nobody (English Version)</song>
+					</album-songs>
+				</album>
+				<album>
+				<album-name>Crush</album-name>
+					<release-date>February 27, 2014</release-date>
+					<album-songs>
+						<song>Crush</song>
+						<song>Come Back Home</song>
+						<song>Gotta Be You</song>
+						<song>If I Were You</song>
+						<song>MTBD (CL Solo)</song>
+						<song>Happy</song>
+						<song>Scream (Korean Version)</song>
+						<song>Baby I MIss You</song>
+						<song>Come Back Home (Unplugged Version)</song>
+					</album-songs>
+				</album>
+			</studio-albums>
+			
+			<extended-plays>
+				<album>
+				<album-name>2NE1 1st Mini Album</album-name>
+					<release-date>July 8, 2009</release-date>
+					<album-songs>
+						<song>Fire</song>
+						<song>I Don't Care</song>
+						<song>In the Club</song>
+						<song>Let's Go Party</song>
+						<song>Pretty Boy</song>
+						<song>Stay Together</song>
+						<song>Lollipop (Bonus Track with BIGBANG)</song>
+					</album-songs>
+				</album>
+				<album>
+					<album-name>2NE1 2nd Mini Album</album-name>
+					<release-date>July 28, 2011</release-date>
+					<album-songs>
+						<song>I Am The Best</song>
+						<song>Ugly</song>
+						<song>Lonely</song>
+						<song>Hate You</song>
+						<song>Don't Cry (Bom Solo)</song>
+						<song>Don't Stop the Music</song>
+					</album-songs>
+				</album>
+			</extended-plays>
+			
+			<singles>
+			<single>
+				<song>I Love You</song>
+					<release-date>July 5, 2012</release-date>
+			</single>
+			<single>
+				<song>Falling in Love</song>
+					<release-date>July 8, 2013</release-date>
+			</single>
+			<single>
+				<song>Do You Love Me</song>
+					<release-date>August 7, 2013</release-date>
+			</single>
+			<single>
+				<song>Missing You</song>
+					<release-date>November 21, 2013</release-date>
+			</single>
+			</singles>
+		</discography>
+	</artist>
+	
+	<artist>
+		<artist-name>4Minute</artist-name>
+		<label>Cube Entertainment</label>
+			<members>
+				<member-name><leader>Jihyun</leader></member-name>
+				<member-name>Gayoon</member-name>
+				<member-name>Jiyoon</member-name>	
+				<member-name>HyunA</member-name>
+				<member-name>Sohyun</member-name>
+			</members>
+		<debut>June 2009</debut>
+		<discography>
+			<studio-albums>
+				<album>
+				<album-name>4Minutes Left</album-name>
+					<release-date> 	April 5, 2011</release-date>
+					<album-songs>
+						<song>4Minutes Left (Intro)</song>
+						<song>Mirror Mirror</song>
+						<song>Heart to Heart</song>
+						<song>Sweet Suga Honey</song>
+						<song>Pretend</song>
+						<song>You Know</song>
+						<song>Already Gone</song>
+						<song>First</song>
+						<song>Hide &amp; Seek</song>
+						<song>Badly</song>
+					</album-songs>
+				</album>
+			</studio-albums>
+			
+			<extended-plays>
+				<album>
+				<album-name>For Muzik</album-name>
+					<release-date>August 31, 2009</release-date>
+					<album-songs>
+						<song>For Muzik (Intro)</song>
+						<song>Muzik</song>
+						<song>Hot Issue</song>
+						<song>What a Girl Wants</song>
+						<song>Funny</song>
+						<song>Won't Give You</song>
+						<song>Hot Issue (Remix)</song>
+					</album-songs>
+				</album>
+				<album>
+				<album-name>Hit Your Heart</album-name>
+					<release-date>May 19, 2010</release-date>
+					<album-songs>
+						<song>Who's Next? (ft. Beast)</song>
+						<song>HuH</song>
+						<song>Invitation</song>
+						<song>I My Me Mine</song>
+						<song>Bababa</song>
+						<song>Highlight</song>
+						<song>Cool and Natural</song>
+					</album-songs>
+				</album>
+				<album>
+				<album-name>Volume Up</album-name>
+					<release-date>April 9, 2012</release-date>
+					<album-songs>
+						<song>Get on the Floor</song>
+						<song>Volume Up</song>
+						<song>I'm OK</song>
+						<song>Say My Name</song>
+						<song>Femme Fatale</song>
+						<song>Dream Racer</song>
+						<song>Black Cat</song>
+					</album-songs>
+				</album>
+				<album>
+				<album-name>Name Is 4Minute</album-name>
+					<release-date>April 26, 2013</release-date>
+					<album-songs>
+						<song>What's My Name?</song>
+						<song>What's Your Name?</song>
+						<song>Whatever</song>
+						<song>Gimme That</song>
+						<song>Domino</song>						
+					</album-songs>
+				</album>
+				<album>
+				<album-name>4Minute World</album-name>
+					<release-date>March 17, 2014</release-date>
+					<album-songs>
+						<song>Wait A Minute</song>
+						<song>Whatcha Doin' Today</song>
+						<song>I'll Teach You</song>
+						<song>Come In</song>
+						<song>Thank You :)</song>						
+					</album-songs>
+				</album>
+			</extended-plays>
+			
+			<singles>
+				<single>
+					<song>Hot Issue</song>
+					<release-date>June 15, 2009</release-date>
+				</single>
+				<single>
+					<song>Jingle Jingle</song>
+					<release-date>December 2, 2009</release-date>
+				</single>
+				<single>
+					<song>Superstar</song>
+					<release-date>July 19, 2010</release-date>
+				</single>
+				<single>
+					<song>Freestyle</song>
+					<release-date>August 3, 2011</release-date>
+				</single>
+				<single>
+					<song>Is It Poppin'?</song>
+					<release-date>June 29, 2013</release-date>
+				</single>
+			</singles>
+		</discography>
+	</artist>
+	
+	<artist>
+		<artist-name>B2ST (Beast)</artist-name>
+		<label>Cube Entertainment</label>
+			<members>
+				<member-name><leader>Doojoon</leader></member-name>
+				<member-name>Hyunseung</member-name>
+				<member-name>Junhyung</member-name>
+				<member-name>Yoseob</member-name>
+				<member-name>Gikwang</member-name>
+				<member-name>Dongwoon</member-name>
+			</members>
+		<debut>October 2009</debut>
+		<discography>
+			<studio-albums>
+				<album>
+				<album-name>Fiction and Fact</album-name>
+					<release-date>May 17, 2011</release-date>
+					<album-songs>
+						<song>The Fact</song>
+						<song>Fiction</song>
+						<song>Back to You</song>
+						<song>You</song>
+						<song>Freeze</song>
+						<song>Virus</song>
+						<song>Though I Call Your Name</song>
+						<song>On Rainy Days</song>
+						<song>Lightless</song>
+						<song>Fiction</song>
+					</album-songs>
+				</album>
+				<album>
+				<album-name>Hard to Love, How to Love</album-name>
+					<release-date>July 19, 2013</release-date>
+					<album-songs>
+						<song>Intro</song>
+						<song>Shadow</song>
+						<song>How to Love</song>
+						<song>Be Alright</song>
+						<song>I'm Sorry</song>
+						<song>Will You Be Alright?</song>
+						<song>You're Bad</song>
+						<song>Encore</song>
+					</album-songs>
+				</album>
+			</studio-albums>
+			
+			<extended-plays>
+				<album>
+				<album-name>Beast Is the B2ST</album-name>
+					<release-date>October 14, 2009</release-date>
+					<album-songs>
+						<song>Beast Is the B2ST</song>
+						<song>Bad Girl</song>
+						<song>Mystery</song>
+						<song>Yet</song>
+						<song>Oasis</song>
+					</album-songs>
+				</album>
+				<album>
+				<album-name>Shock of the New Era</album-name>
+					<release-date>March 1, 2010</release-date>
+					<album-songs>
+						<song>Just Before Shock</song>
+						<song>Shock</song>
+						<song>Special</song>
+						<song>Say No</song>
+						<song>Easy</song>
+					</album-songs>
+				</album>
+				<album>
+				<album-name>Mastermind</album-name>
+					<release-date>September 30, 2010</release-date>
+					<album-songs>
+						<song>Mastermind</song>
+						<song>Breath</song>
+						<song>V.I.U (Very Important U)</song>
+						<song>Break Down</song>
+						<song>Clenching a Tight Fist</song>
+					</album-songs>
+				</album>
+				<album>
+				<album-name>Lights Go On Again</album-name>
+					<release-date>November 9, 2010</release-date>
+					<album-songs>
+						<song>Lights Go on Again</song>
+						<song>Beautiful</song>
+						<song>I Like You the Best</song>
+						<song>Lightless</song>
+						<song>I'm Sorry</song>
+					</album-songs>
+				</album>
+				<album>
+				<album-name>My Story</album-name>
+					<release-date>December 21, 2010</release-date>
+					<album-songs>
+						<song>When The Door Closes</song>
+						<song>Thanks To</song>
+						<song>Let It Snow</song>
+						<song>Lights Go On Again (Full Version)</song>
+					</album-songs>
+				</album>
+				<album>
+				<album-name>Midnight Sun</album-name>
+					<release-date>July 22, 2012</release-date>
+					<album-songs>
+						<song>Midnight</song>
+						<song>Beautiful Night</song>
+						<song>Not Me</song>
+						<song>When I Miss You</song>
+						<song>The Day You Rest</song>
+						<song>Dream Girl</song>
+					</album-songs>
+				</album>
+				<album>
+				<album-name>Good Luck</album-name>
+					<release-date>June 16, 2014</release-date>
+					<album-songs>
+						<song>We Up</song>
+						<song>Good Luck</song>
+						<song>Dance With U</song>
+						<song>No More</song>
+						<song>History</song>
+						<song>Tonight, I'll Be At Your Side</song>
+						<song>Sad Movie (Korean version)</song>
+					</album-songs>
+				</album>
+			</extended-plays>
+			<singles>
+				<single>
+					<song>Many Other Things</song>
+					<release-date>January 10, 2013</release-date>
+				</single>
+				<single>
+					<song>Will You Be Alright</song>
+					<release-date>June 5, 2013</release-date>
+				</single>
+				<single>
+					<song>I'm Sorry</song>
+					<release-date>June 29, 2013</release-date>
+				</single>
+			</singles>
+		</discography>
+	</artist>
+	
+	<artist>
+		<artist-name>B.A.P</artist-name>
+		<label>TS Entertainment</label>
+			<members>
+				<member-name><leader>Yong Guk</leader></member-name>
+				<member-name>Him Chan</member-name>
+				<member-name>Dae Hyun</member-name>	
+				<member-name>Young Jae</member-name>
+				<member-name>Jong Up</member-name>
+				<member-name>Zelo</member-name>
+			</members>
+		<debut>January 2012</debut>
+		<discography>
+			<studio-albums>
+				<album>
+				<album-name>First Sensibility</album-name>
+					<release-date>February 4, 2014</release-date>
+					<album-songs>
+						<song>B.A.P (Intro)</song>
+						<song>1004 (Angel)</song>
+						<song>Easy</song>
+						<song>Spy</song>
+						<song>Check On</song>
+						<song>Shady Lady</song>
+						<song>Lovesick</song>
+						<song>Bang X2</song>
+						<song>S.N.S</song>
+						<song>Body &amp; Soul</song>
+						<song>Save Me</song>
+						<song>B.A.B.Y</song>
+						<song>With You</song>
+					</album-songs>
+				</album>
+			</studio-albums>
+			
+			<extended-plays>
+				<album>
+				<album-name>No Mercy</album-name>
+					<release-date>August 19, 2012</release-date>
+					<album-songs>
+						<song>Goodbye</song>
+						<song>No Mercy</song>
+						<song>Voice Message</song>
+						<song>Dancing in the Rain</song>
+						<song>What My Heart Tells Me To Do</song>						
+					</album-songs>
+				</album>
+				<album>
+				<album-name>One Shot</album-name>
+					<release-date>February 12, 2013</release-date>
+					<album-songs>
+						<song>Punch</song>
+						<song>One Shot</song>
+						<song>Rain Sound</song>
+						<song>Coma</song>
+						<song>0(Zero)</song>
+					</album-songs>
+				</album>
+				<album>
+				<album-name>Badman</album-name>
+					<release-date>August 6, 2013</release-date>
+					<album-songs>
+						<song>Whut's Poppin'</song>
+						<song>Badman</song>
+						<song>Excuse Me</song>
+						<song>Coffee Shop</song>
+						<song>Bow Wow</song>
+						<song>Hurricane</song>
+					</album-songs>
+				</album>
+			</extended-plays>
+			<singles>
+				<single>
+					<song>Warrior</song>
+					<release-date>January 26, 2012</release-date>
+				</single>
+				<single>
+					<song>Power</song>
+					<release-date>April 27, 2012</release-date>
+				</single>
+				<single>
+					<song>Stop It</song>
+					<release-date>October 23, 2012</release-date>
+				</single>
+				<single>
+					<song>B.A.P Unplugged 2014</song>
+					<release-date>June 10, 2014</release-date>
+				</single>
+			</singles>
+		</discography>
+	</artist>
+	
+	<artist>
+		<artist-name>BIGBANG</artist-name>
+		<label>YG Entertainment</label>
+			<members>
+				<member-name><leader>G-Dragon</leader></member-name>
+				<member-name>T.O.P</member-name>
+				<member-name>Taeyang</member-name>	
+				<member-name>Daesung</member-name>
+				<member-name>Seungri</member-name>
+			</members>
+		<debut>August 2006</debut>
+		<discography>
+			<studio-albums>
+				<album>
+				<album-name>Since 2007</album-name>
+					<release-date>December 22, 2006</release-date>
+					<album-songs>
+						<song>Intro (Big Bang)</song>
+						<song>She Can't Get Enough</song>
+						<song>Dirty Cash</song>
+						<song>Next Day (Seungri Solo)</song>
+						<song>Big Boy (T.O.P Solo ft. Lee Ji-Eun)</song>
+						<song>Shake It (ft. Lee Ji-Eun)</song>
+						<song>A Fool's Only Tears</song>
+						<song>My Girl (Taeyang Solo)</song>
+						<song>La La La</song>
+						<song>This Love (G-Dragon Solo)</song>
+						<song>Try Smiling (Daesung Solo)</song>
+					</album-songs>
+				</album>
+				<album>
+				<album-name>Remember</album-name>
+					<release-date>November 5, 2008</release-date>
+					<album-songs>
+						<song>Intro (Everybody Scream)</song>
+						<song>Oh, Ah, Oh</song>
+						<song>Sunset Glow</song>
+						<song>Twinkle Twinkle</song>
+						<song>Strong Baby (Seungri Solo)</song>
+						<song>Wonderful</song>
+						<song>Foolish Love</song>
+						<song>Haru Haru</song>
+						<song>Lies (Remix)</song>
+						<song>Last Farewell (Remix)</song>
+						<song>Remember</song>
+					</album-songs>
+				</album>
+			</studio-albums>
+			<extended-plays>
+				<album>
+				<album-name>Always</album-name>
+					<release-date>August 16, 2007</release-date>
+					<album-songs>
+						<song>We are Big Bang (Intro)</song>
+						<song>Lies</song>
+						<song>Wrong Number</song>
+						<song>Act Like Nothing's Wrong (T.O.P Solo ft. Kim Ji Eun)</song>
+						<song>Oh Ma Baby</song>
+						<song>Always</song>
+					</album-songs>
+				</album>
+				<album>
+					<album-name>Hot Issue</album-name>
+						<release-date>November 22, 2007</release-date>
+					<album-songs>
+						<song>Intro (Hot Issue)(ft. CL of 2NE1)</song>
+						<song>Fool</song>
+						<song>But I Love U</song>
+						<song>I Don't Understand</song>
+						<song>Crazy Dog</song>
+						<song>Last Farewell</song>
+					</album-songs>
+				</album>
+				<album>
+				<album-name>Stand Up</album-name>
+					<release-date>August 8, 2008</release-date>
+					<album-songs>
+						<song>Intro (Stand Up)</song>
+						<song>Haru Haru</song>
+						<song>Heaven</song>
+						<song>A Good Man</song>
+						<song>Lady</song>
+						<song>Oh My Friend (ft. No Brain)</song>
+					</album-songs>
+				</album>
+				<album>
+				<album-name>Tonight</album-name>
+					<release-date>February 23, 2011</release-date>
+					<album-songs>
+						<song>Intro</song>
+						<song>Hands Up</song>
+						<song>Tonight</song>
+						<song>Sombody to Love</song>
+						<song>What is Right</song>
+						<song>Cafe</song>
+					</album-songs>
+				</album>
+				<album>
+				<album-name>Tonight (Special Edition)</album-name>
+					<release-date>February 23, 2011</release-date>
+					<album-songs>
+						<song>Love Song</song>
+						<song>Stupid Liar</song>
+						<song>Tonight</song>
+						<song>High Hight (G-Dragon &amp;a T.O.P)</song>
+						<song>Oh Yeah (G-Dragon &amp; T.O.P ft. Park Bom)</song>
+						<song>Cafe</song>
+						<song>I Need a Girl (Taeyang ft. G-Dragon)</song>
+						<song>Sombody to Love</song>
+						<song>What Can I Do (Seungri Solo)</song>
+						<song>Baby Don't Cry</song>
+					</album-songs>
+				</album>
+				<album>
+				<album-name>Alive</album-name>
+					<release-date>February 29, 2012</release-date>
+					<album-songs>
+						<song>Intro (Alive)</song>
+						<song>Blue</song>
+						<song>Love Dust</song>
+						<song>Bad Boy</song>
+						<song>Ain't No Fun</song>
+						<song>Fantastic Baby</song>
+						<song>Wings (Daesung Solo)</song>
+					</album-songs>
+				</album>
+				<album>
+				<album-name>Alive (Special Edition)</album-name>
+					<release-date>February 29, 2012</release-date>
+					<album-songs>
+						<song>Still Alive</song>
+						<song>Monster</song>
+						<song>Feeling (Korean Version)</song>
+						<song>Fantastic Baby</song>
+						<song>Bad Boy</song>
+						<song>Blue</song>
+						<song>Round and Round</song>
+						<song>Ego (Korean Version)</song>
+						<song>Love Dust</song>	
+					</album-songs>
+				</album>
+			</extended-plays>
+			<singles>
+			<single>
+				<song>We Belong Together</song>
+					<release-date>August 28, 2006</release-date>
+			</single>
+			<single>
+				<song>La La La</song>
+					<release-date>September 28, 2006</release-date>
+			</single>
+			<single>
+				<song>BIGBANG</song>
+					<release-date>November 21, 2006</release-date>
+			</single>
+			</singles>
+		</discography>
+	</artist>
+	
+	<artist>
+		<artist-name>Block B</artist-name>
+		<label>Seven Seasons</label>
+			<members>
+				<member-name><leader>Zico</leader></member-name>
+				<member-name>Taeil</member-name>
+				<member-name>B-Bomb</member-name>	
+				<member-name>Jaehyo</member-name>
+				<member-name>U-Kwon</member-name>
+				<member-name>Kyung</member-name>
+				<member-name>P.O</member-name>
+			</members>
+		<debut>April 2011</debut>
+		<discography>
+			<studio-albums>
+				<album>
+				<album-name>Blockbuster</album-name>
+					<release-date>October 17, 2012</release-date>
+					<album-songs>
+						<song>11:30</song>
+						<song>Interlude</song>
+						<song>Nillili Mambo</song>
+						<song>Mental Breaker</song>
+						<song>No Joke (Zico, Kyung &amp; P.O.)</song>
+						<song>Movie's Over</song>
+						<song>Where You At? (Taeil Solo)</song>
+						<song>Dreams Come True</song>
+						<song>Did It or Not?</song>
+						<song>Halo</song>
+						<song>Nillili Mambo (Instrumental)</song>
+						<song>Mental Breaker (Instrumental)</song>
+					</album-songs>
+				</album>
+			</studio-albums>
+			
+			<extended-plays>
+				<album>
+				<album-name>New Kids On The Block</album-name>
+					<release-date>June 23, 2011</release-date>
+					<album-songs>
+						<song>Halo</song>
+						<song>Let Them Know</song>
+						<song>U Hoo Hoo</song>
+						<song>Wanna B</song>
+						<song>Don't Move!</song>
+						<song>Does It Only Happen to Me?</song>
+						<song>Let Them Know (Instrumental)</song>
+						<song>Don't Move! (Instrumental)</song>
+					</album-songs>
+				</album>
+				<album>
+				<album-name>Welcome To The Block</album-name>
+					<release-date>February 2, 2012</release-date>
+					<album-songs>
+						<song>LOL</song>
+						<song>NalinA</song>
+						<song>Did It Or Not?</song>
+						<song>100% in Synchronized</song>
+						<song>Action</song>
+						<song>NalinA (Instrumental)</song>
+					</album-songs>
+				</album>
+				<album>
+				<album-name>Very Good</album-name>
+					<release-date>October 2, 2013</release-date>
+					<album-songs>
+						<song>Very Good</song>
+						<song>Be The Light</song>
+						<song>Three W's and One H</song>
+						<song>Nice Day</song>
+						<song>Very Good (Instrumental)</song>
+					</album-songs>
+				</album>
+				<album>
+				<album-name>H.E.R</album-name>
+					<release-date>July 24, 2014</release-date>
+					<album-songs>
+						<song>Dime Girl</song>
+						<song>Her</song>
+						<song>Hold Me Now</song>
+						<song>Jackpot</song>
+						<song>Very Good (Rough Version)</song>
+						<song>Jackpot (Instrumental)</song>
+					</album-songs>
+				</album>
+			</extended-plays>
+			<singles>
+				<single>
+					<song>Do You Wanna B?</song>
+					<release-date>April 14, 2011</release-date>
+				</single>
+				<single>
+					<song>Jackpot</song>
+					<release-date>April 17, 2014</release-date>
+				</single>
+			</singles>
+		</discography>
+	</artist>
+	
+	<artist>
+		<artist-name>Brown Eyed Girls</artist-name>
+		<label>Nega Network</label>
+			<members>
+				<member-name><leader>JeA</leader></member-name>
+				<member-name>Miryo</member-name>
+				<member-name>Narsha</member-name>	
+				<member-name>Ga-In</member-name>
+			</members>
+		<debut>March 2006</debut>
+		<discography>
+			<studio-albums>
+				<album>
+				<album-name>Your Story</album-name>
+					<release-date>March 2, 2006</release-date>
+					<album-songs>
+						<song>Second</song>
+						<song>Came</song>
+						<song>Far Away (ft. MC Mong)</song>
+						<song>String</song>
+						<song>Every Body (ft. Big Tone)</song>
+						<song>Forgetting</song>
+						<song>Fly Up With You Tonight (ft. Bobby Kim)</song>
+						<song>Who Do You Love</song>
+						<song>1, 2, 3, 4</song>
+						<song>Monologue</song>
+						<song>Your Day of Arrival</song>
+						<song>Watch Out</song>
+						<song>Unheard Story</song>
+						<song>Finally I Can Talk About Love</song>
+						<song>Timing</song>
+					</album-songs>
+				</album>
+				<album>
+				<album-name>Leave Ms. Kim</album-name>
+					<release-date>September 6, 2007</release-date>
+					<album-songs>
+						<song>There is No Man (ft. Young Ji)</song>
+						<song>I'm Laughing (Ga-In solo)</song>
+						<song>Leave Ms. Kim</song>
+						<song>Tagger</song>
+						<song>I Got Fooled By You</song>
+						<song>Why of All Things</song>
+						<song>Oasis (ft. Lee Jae Hoon)</song>
+						<song>Dazzling Good Day</song>
+						<song>Triangle</song>
+						<song>Hypnosis</song>
+						<song>Mine</song>
+						<song>How Could I Love You</song>
+						<song>Tagger (Instrumental)</song>
+						<song>Leave Ms. Kim (Instrumental)</song>
+					</album-songs>
+				</album>
+				<album>
+				<album-name>Sound-G</album-name>
+					<release-date>July 21, 2009</release-date>
+					<album-songs>
+						<song>Glam Girl</song>
+						<song>Abracadabra</song>
+						<song>Addiction</song>
+						<song>Candy Man</song>
+						<song>Moody Night</song>
+						<song>Strange Days</song>
+						<song>Can't Go</song>
+						<song>Even If You Have Another One</song>
+						<song>It'll Do Well (JeA's Solo</song>
+						<song>Abracadabra (Instrumental)</song>
+						<song>Candy Man (Instrumental)</song>
+						<song>It'll Do Well (Instrumental)</song>
+					</album-songs>
+				</album>
+				<album>
+				<album-name>Sixth Sense</album-name>
+					<release-date>September 16, 2011</release-date>
+					<album-songs>
+						<song>Swing it Shorty (Intro)</song>
+						<song>Sixth Sense</song>
+						<song>Hot Shot</song>
+						<song>La Boheme</song>
+						<song>Awkward Truths</song>
+						<song>Lovemotion</song>
+						<song>Countdown (Interlude)</song>
+						<song>Vendetta</song>
+						<song>Sixth Sense (Instrumental)</song>
+					</album-songs>
+				</album>
+				<album>
+				<album-name>Black Box</album-name>
+					<release-date>September 16, 2011</release-date>
+					<album-songs>
+						<song>After Club</song>
+						<song>Before Sunset</song>
+						<song>Kill Bill</song>
+						<song>Boy</song>
+						<song>Satisfaction</song>
+						<song>Mystery Survivor</song>
+						<song>Lie</song>
+						<song>Recipe</song>
+						<song>Good Fellas</song>
+					</album-songs>
+				</album>
+			</studio-albums>
+			
+			<extended-plays>
+				<album>
+				<album-name>With L.O.V.E. Brown Eyed Girls</album-name>
+					<release-date>January 17, 2008</release-date>
+					<album-songs>
+						<song>Love Action</song>
+						<song>Love</song>
+						<song>Breakup Letter</song>
+						<song>Love Action</song>
+						<song>Love Action (Instrumental)</song>
+						<song>LOVE (Instrumental)</song>
+						<song>Breakup Letter (Instrumental)</song>
+					</album-songs>
+				</album>
+				<album>
+				<album-name>My Style</album-name>
+					<release-date>September 10, 2008</release-date>
+					<album-songs>
+						<song>You</song>
+						<song>How Come</song>
+						<song>Easy</song>
+						<song>I Won't Love Again</song>
+						<song>How Come (Instrumental)</song>
+						<song>I Won't Love Again (Instrumental)</song>
+					</album-songs>
+				</album>
+				<album>
+				<album-name>Soung-G SIGN</album-name>
+					<release-date>October 29, 2009</release-date>
+					<album-songs>
+						<song>Sign</song>
+						<song>Drunk on Sleep</song>
+						<song>Sign (Junjaman remix)</song>
+						<song>Drunk on Sleep (Instrumental)</song>
+					</album-songs>
+				</album>
+				<album>
+				<album-name>Festa on Ice 2010</album-name>
+					<release-date>April 6, 2010</release-date>
+					<album-songs>
+						<song>Magic (FOI 2010 Theme)</song>
+						<song>Jump</song>
+						<song>Abracadabra (Fraktal FOI 2010 Re-Edit)</song>
+						<song>Magic (Instrumental)</song>
+						<song>Jump (Guitar version)</song>
+					</album-songs>
+				</album>
+			</extended-plays>
+			<singles>
+				<single>
+					<song>Hold The Line (ft. Cho PD)</song>
+					<release-date>May 3, 2006</release-date>
+				</single>
+				<single>
+					<song>I Am Summer</song>
+					<release-date>June 21, 2007</release-date>
+				</single>
+				<single>
+					<song>My Style (Hidden Track)</song>
+					<release-date>October 30, 2008</release-date>
+				</single>
+				<single>
+					<song>Candy Man</song>
+					<release-date>July 9, 2009</release-date>
+				</single>
+				<single>
+					<song>Snowy Village</song>
+					<release-date>December 22, 2009</release-date>
+				</single>
+				<single>
+					<song>Hot Shot</song>
+					<release-date>August 16, 2011</release-date>
+				</single>
+				<single>
+					<song>Cleansing Cream</song>
+					<release-date>November 3, 2011</release-date>
+				</single>
+				<single>
+					<song>Brown Eyed Girls The Original</song>
+					<release-date>July 17, 2012</release-date>
+				</single>
+				<single>
+					<song>Recipe</song>
+					<release-date>July 9, 2013</release-date>
+				</single>
+			</singles>
+		</discography>
+	</artist>
+	
+		<artist>
+		<artist-name>BTS (Bangtan Boys)</artist-name>
+		<label>Big Hit Entertainment</label>
+			<members>
+				<member-name><leader>Rap Monster</leader></member-name>
+				<member-name>Jin</member-name>
+				<member-name>Suga</member-name>	
+				<member-name>J-hope</member-name>
+				<member-name>Jimin</member-name>
+				<member-name>V</member-name>	
+				<member-name>Jungkook</member-name>
+			</members>
+		<debut>June 2013</debut>
+		<discography>
+			<studio-albums>
+				<album>
+				<album-name>Dark &amp; Wild</album-name>
+					<release-date>August 22, 2014</release-date>
+					<album-songs>
+						<song>Intro: What Am I To You</song>
+						<song>Danger</song>
+						<song>Hormone War</song>
+						<song>Hip Hop Lover</song>
+						<song>Let Me Know</song>
+						<song>Rain</song>
+						<song>BTS Cypher Pt.3: Killer (ft. Supreme Boi)</song>
+						<song>Interlude: What Are You Doing</song>
+						<song>Can You Turn Off Your Phone</song>
+						<song>Blanket Kick</song>
+						<song>24/7 = Heaven</song>
+						<song>Look Here</song>
+						<song>Second Grade</song>
+						<song>Outro: Does That Make Sense?</song>
+					</album-songs>
+				</album>
+			</studio-albums>
+			
+			<extended-plays>
+				<album>
+				<album>
+				<album-name>2 Cool 4 Skool</album-name>
+					<release-date>Jun 12, 2013</release-date>
+					<album-songs>
+						<song>Intro: 2 COOL 4 SKOOL</song>
+						<song>We Are Bulletproof, Pt. 2</song>
+						<song>Skit: Circle Room Talk</song>
+						<song>No More Dream</song>
+						<song>Interlude</song>
+						<song>Like</song>
+						<song>Outro: Circle Room Cypher</song>
+					</album-songs>
+				</album>
+				<album-name>O!RUL8,2?</album-name>
+					<release-date>September 11, 2013</release-date>
+					<album-songs>
+						<song>Intro: O!RUL8,2?</song>
+						<song>N.O</song>
+						<song>We On</song>
+						<song>Skit: R U Happy Now?</song>
+						<song>If I Ruled the World</song>
+						<song>Cofee</song>
+						<song>BTS Cypher, pt. 1</song>
+						<song>The Rise of Bangtan</song>
+						<song>Paldo Gangsan</song>
+						<song>Outro: Luv in School</song>
+					</album-songs>
+				</album>
+				<album>
+				<album-name>Skool Luv Affair</album-name><!--this is a "singles album," whatever that means-->
+					<release-date>Feb 12, 2014</release-date>
+					<album-songs>
+						<song>Intro: Skool Luv Affair</song>
+						<song>Boy in Luv</song>
+						<song>Skit: Soulmate</song>
+						<song>Where Did You Come From</song>
+						<song>One Day Only</song>
+						<song>Tomorrow</song>
+						<song>BTS Cypher, Pt. 2: Triptych</song>
+						<song>Spine Breaker</song>
+						<song>Jump</song>
+						<song>Outro: Purpose</song>
+					</album-songs>
+				</album>				
+			</extended-plays>
+			<singles>
+				<single>
+					<song>N/A</song><!--BTS hasn't released any singles-->				
+				</single>
+			</singles>
+		</discography>
+	</artist>
+	
+	<artist>
+		<artist-name>Crayon Pop</artist-name>
+		<label>Chrome Entertainment</label>
+			<members>
+				<member-name>Geummi</member-name><!--Crayon Pop doesn't have a leader, apparently-->
+				<member-name>Ellin</member-name>
+				<member-name>Choa</member-name>	
+				<member-name>Way</member-name>
+				<member-name>Soyul</member-name>
+			</members>
+		<debut>July 2012</debut>
+		<discography>
+			<studio-albums>
+				<album>
+				<album-name>N/A</album-name><!--Crayon Pop hasn't realeased any studio albums-->
+				</album>
+			</studio-albums>
+			
+			<extended-plays>
+				<album>
+				<album-name>Dancing Queen</album-name>
+					<release-date>September 2, 2013</release-date>
+					<album-songs>
+						<song>Dancing Queen</song>
+						<song>Bing Bing (Remix Mastering Version)</song>
+						<song>Dancing Queen (Instrumental)</song>
+						<song>Bing Bing (Instrumental)</song>
+					</album-songs>
+				</album>
+				<album>
+				<album-name>Crayon Pop: The 1st Mini Album</album-name>
+					<release-date>September 2, 2013</release-date>
+					<album-songs>
+					<song>Bing Bing</song>
+						<song>Saturday Night</song>
+						<song>Bing Bing (Instrumental)</song>
+						<song>Saturday Night (Instrumental)</song>
+						<song>Saturday Night (Dubstep Mix)</song>
+					</album-songs>
+				</album>
+				<album>
+				<album-name>The Streets Go Disco</album-name>
+					<release-date>September 26, 2013</release-date>
+					<album-songs>
+						<song>Bar Bar Bar 2.0</song>
+						<song>Bar Bar Bar</song>
+						<song>Dancing Queen 2.0</song>
+						<song>Dancing Queen</song>
+						<song>Saturday Night</song>
+						<song>Saturday Night (Dubstep Mix)</song>
+						<song>Bing Bing (Poppin Version)</song>
+						<song>Bing Bing</song>
+					</album-songs>
+				</album>
+			</extended-plays>
+			<singles>
+				<single>
+					<song>Bar Bar Bar</song>
+					<release-date>September 2, 2013</release-date>
+				</single>
+				<single>
+					<song>Lonely Christmas</song>
+					<release-date>November 26, 2013</release-date>
+				</single>
+				<single>
+					<song>Hero</song>
+					<release-date>February 6, 2014</release-date>
+				</single>
+				<single>
+					<song>Uh-Ee</song>
+					<release-date>April 1, 2014</release-date>
+				</single>
+			</singles>
+		</discography>
+	</artist>
+	
+	<artist>
+		<artist-name>f(x)</artist-name>
+		<label>SM Entertainment</label>
+			<members>
+				<member-name><leader>Victoria</leader></member-name>
+				<member-name>Amber</member-name>
+				<member-name>Luna</member-name>	
+				<member-name>Sulli</member-name>
+				<member-name>Krystal</member-name>
+			</members>
+		<debut>September 2009</debut>
+		<discography>
+			<studio-albums>
+				<album>
+				<album-name>Pinocchio</album-name>
+					<release-date>April 20, 2011</release-date>
+					<album-songs>
+						<song>Danger</song>
+						<song>Sweet Witches</song>
+						<song>Dangerous</song>
+						<song>Beautiful Goodbye</song>
+						<song>Gangsta Boy</song>
+						<song>Love</song>
+						<song>Stand Up!</song>
+						<song>My Style</song>
+						<song>So Into U</song>
+						<song>Lollipop (ft. Shinee)</song>
+					</album-songs>
+				</album>
+				<album>
+				<album-name>Pink Tape</album-name>
+					<release-date>July 29, 2013</release-date>
+					<album-songs>
+						<song>Rum Pum Pum Pum</song>
+						<song>Shadow</song>
+						<song>Pretty Girl</song>
+						<song>Kick</song>
+						<song>Signal</song>
+						<song>Step</song>
+						<song>Goodbye Summer (Amber+Luna+Krystal ft. D.O. of EXO-K)</song>
+						<song>Airplane</song>
+						<song>Toy</song>
+						<song>No More</song>
+						<song>Snapshot</song>
+						<song>Ending Page</song>
+					</album-songs>
+				</album>
+				<album>
+				<album-name>Red Light</album-name>
+					<release-date>July 7, 2014</release-date>
+					<album-songs>
+						<song>Red Light</song>
+						<song>MILK</song>
+						<song>Butterfly</song>
+						<song>Rainbow</song>
+						<song>All Night</song>
+						<song>Vacation</song>
+						<song>Spit It Out</song>
+						<song>Boom Bang Boom</song>
+						<song>Dracula</song>
+						<song>Summer Lover</song>
+						<song>Paper Heart</song>
+					</album-songs>
+				</album>
+			</studio-albums>
+			
+			<extended-plays>
+				<album>
+				<album-name>Nu ABO</album-name>
+					<release-date> 	May 4, 2010</release-date>
+					<album-songs>
+						<song>Nu ABO</song>
+						<song>Mr. Boogie</song>
+						<song>Ice Cream</song>
+						<song>ME+U</song>
+						<song>Surprise Party</song>
+						<song>Sorry (Dear. Daddy)(Luna &amp; Krystal duet)</song>
+					</album-songs>
+				</album>
+				<album>
+				<album-name>Electric Shock</album-name>
+					<release-date>June 10, 2012</release-date>
+					<album-songs>
+						<song>Electric Shock</song>
+						<song>Jet Star</song>
+						<song>Zig Zag</song>
+						<song>Beautiful Stranger" (Amber+Luna+Krystal)</song>
+						<song>Love Hate</song>
+						<song>Let’s Try</song>
+					</album-songs>
+				</album>
+			</extended-plays>
+			<singles>
+				<single>
+					<song>N/A</song><!--BTS hasn't released any singles-->				
+				</single>
+			</singles>
+		</discography>
+	</artist>
+	
+	<artist>
+		<artist-name>Girl's Day</artist-name>
+		<label>LOEN Entertainment</label>
+			<members>
+				<member-name><leader>Sojin</leader></member-name>
+				<member-name>Yura</member-name>
+				<member-name>Minah</member-name>	
+				<member-name>Hyeri</member-name>
+			</members>
+		<debut>July 2010</debut>
+		<discography>
+			<studio-albums>
+				<album>
+				<album-name>Expectation</album-name>
+					<release-date>March 14, 2013</release-date>
+					<album-songs>
+						<song>Girl's Day World (Intro)</song>
+						<song>Expectation</song>
+						<song>I Don't Mind</song>
+						<song>Easy Go</song>
+						<song>Please Don't Go</song>
+						<song>White Day</song>
+						<song>Oh, Great!</song>
+						<song>Twinkle Twinkle</song>
+						<song>Hug Me Once</song>
+						<song>Oh! My God</song>
+						<song>Don't Forget Me</song>
+						<song>Don't Flirt! (DJ Stereo Club Mix)</song>
+						<song>Expectation (Instrumental)</song>
+						<song>White Day (Instrumental)</song>
+					</album-songs>
+				</album>
+			</studio-albums>
+			
+			<extended-plays>
+				<album>
+				<album-name>Girl's Day Party 1</album-name>
+					<release-date>July 9, 2010</release-date>
+					<album-songs>
+						<song>Tilt My Head</song>
+						<song>Shuppy Shuppy</song>
+						<song>Control</song>
+						<song>Tilt My Head (Instrumental)</song>
+						<song>Shuppy Shuppy (Instrumental)</song>
+					</album-songs>
+				</album>
+				<album>
+				<album-name>Everyday</album-name>
+					<release-date>July 6, 2011</release-date>
+					<album-songs>
+						<song>Young Love</song>
+						<song>Hug Me Once</song>
+						<song>Twinkle Twinkle</song>
+						<song>Nothing Lasts Forever</song>
+						<song>Hug Me Once (Instrumental)</song>
+					</album-songs>
+				</album>
+				<album>
+				<album-name>Everyday 2</album-name>
+					<release-date>April 18, 2012</release-date>
+					<album-songs>
+						<song>Together</song>
+						<song>Oh! My God</song>
+						<song>Don't Let Your Eyes Wander)</song>
+						<song>Telepathy</song>
+						<song>Oh! My God (Instrumental)</song>
+					</album-songs>
+				</album>
+				<album>
+				<album-name>Everyday 3</album-name>
+					<release-date>January 3, 2013</release-date>
+					<album-songs>
+						<song>G.D.P Intro</song>
+						<song>Something</song>
+						<song>Whistle</song>
+						<song>Show You</song>
+						<song>Something (Instrumental)</song>
+					</album-songs>
+				</album>
+				<album>
+				<album-name>Everyday 4</album-name>
+					<release-date>July 14, 2014</release-date>
+					<album-songs>
+						<song>Summery Party (Intro)(ft. David Kim)</song>
+						<song>Darling</song>
+						<song>Look At Me</song>
+						<song>Timing</song>
+						<song>Darling (Instrumental)</song>
+					</album-songs>
+				</album>
+				<album>
+				<album-name>I Miss You</album-name>
+					<release-date>October 15, 2014</release-date>
+					<album-songs>
+						<song>I Miss You</song>
+						<song>Look At Me</song>
+						<song>Show You</song>
+						<song>I Don't Mind</song>
+						<song>White Day</song>
+					</album-songs>
+				</album>
+			</extended-plays>
+			<singles>
+				<single>
+					<song>Nothing Lasts Forever</song>
+					<release-date>October 29, 2010</release-date>
+				</single>
+				<single>
+					<song>Twinke Twinkle</song>
+					<release-date>March 28, 2011</release-date>
+				</single>
+				<single>
+					<song>Don't Let Your Eyes Wander!</song>
+					<release-date>September 2, 2011</release-date>
+				</single>
+				<single>
+					<song>Blue Rain 2012</song>
+					<release-date>August 27, 2012</release-date>
+				</single>
+				<single>
+					<song>Don’t Forget Me</song>
+					<release-date>October 26, 2012</release-date>
+				</single>
+				<single>
+					<song>Please Tell Me</song>
+					<release-date>July 30, 2013</release-date>
+				</single>
+				<single>
+					<song>Let's Go</song>
+					<release-date>October 15, 2013</release-date>
+				</single>
+			</singles>
+		</discography>
+	</artist>
+	
+		<artist>
+		<artist-name>Girls' Generation</artist-name>
+		<label>SM Entertainment</label>
+			<members>
+				<member-name><leader>Taeyeon</leader></member-name>
+				<member-name>Sunny</member-name>
+				<member-name>Tiffany</member-name>	
+				<member-name>Hyoyeon</member-name>
+				<member-name>Yuri</member-name>
+				<member-name>Sooyoung</member-name>
+				<member-name>Yoona</member-name>	
+				<member-name>Seohyun</member-name>
+				<member-name>Jessica</member-name>
+			</members>
+		<debut>August 2007</debut>
+		<discography>
+			<studio-albums>
+				<album>
+				<album-name>Girls' Generation</album-name>
+					<release-date>November 1, 2007</release-date>
+					<album-songs>
+						<song>Girls' Generation</song>
+						<song>Ooh La-La!</song>
+						<song>Baby Baby</song>
+						<song>Complete</song>
+						<song>Kissing You</song>
+						<song>Merry-Go-Round</song>
+						<song>Tears</song>
+						<song>Tinkerbell</song>
+						<song>7989 (TaeYeon duet with Kangta)</song>
+						<song>Honey</song>
+						<song>Into the New World</song>
+					</album-songs>
+				</album>
+				<album>
+				<album-name>Oh!</album-name>
+					<release-date>January 28, 2010</release-date>
+					<album-songs>
+						<song>Run Devil Run</song>
+						<song>Oh!</song>
+						<song>Echo</song>
+						<song>Star Star Star (☆★☆) [Acoustic R&amp;B Version]</song>
+						<song>Show! Show! Show!</song>
+						<song>Sweet Talking Baby</song>
+						<song>Forever</song>
+						<song>Be Happy</song>
+						<song>Boys &amp; Girls (feat. Key of Shinee)</song>
+						<song>Talk to Me</song>
+						<song>Star Star Star (☆★☆)</song>
+						<song>Stick wit U</song>
+						<song>Day by Day (Taeyeon, Jessica, Tiffany, Seohyun, Sunny)</song>
+						<song>Gee</song>
+						<song>Genie</song>
+					</album-songs>
+				</album>
+				<album>
+				<album-name>Run Devil Run</album-name>
+					<release-date>March 22, 2010</release-date>
+					<album-songs>
+						<song>Oh!</song>
+						<song>Show! Show! Show!</song>
+						<song>Sweet Talking Baby</song>
+						<song>Forever</song>
+						<song>Be Happy</song>
+						<song>Boys &amp; Girls (feat. Key of Shinee)</song>
+						<song>Star Star Star (☆★☆)</song>
+						<song>Stick wit U</song>
+						<song>Day by Day (Taeyeon, Jessica, Tiffany, Seohyun, Sunny)</song>
+						<song>Gee (Bonus Track)</song>
+						<song>Genie (Bonus Track)</song>
+					</album-songs>
+				</album>
+				<album>
+				<album-name>The Boys</album-name>
+					<release-date>October 19, 2011</release-date>
+					<album-songs>
+						<song>The Boys</song>
+						<song>Telepathy</song>
+						<song>Say Yes</song>
+						<song>Trick</song>
+						<song>How Great Is Your Love</song>
+						<song>My J</song>
+						<song>Oscar</song>
+						<song>Top Secret</song>
+						<song>Lazy Girl (Dolce Far Niente)</song>
+						<song>Sunflower</song>
+						<song>Vitamin</song>
+						<song>Mr. Taxi (Korean Ver.)</song>
+					</album-songs>
+				</album>
+				<album>
+				<album-name>I Got a Boy</album-name>
+					<release-date>January 1, 2013</release-date>
+					<album-songs>
+						<song>I Got a Boy</song>
+						<song>Dancing Queen</song>
+						<song>Baby Maybe</song>
+						<song>Baby Maybe</song>
+						<song>Promise</song>
+						<song>Express 999</song>
+						<song>Lost In Love (Taeyeon and Tiffany duet)</song>
+						<song>Look at Me</song>
+						<song>XYZ</song>
+						<song>Romantic St.</song>
+					</album-songs>
+				</album>
+			</studio-albums>
+			
+			<extended-plays>
+				<album>
+				<album-name>Gee</album-name>
+					<release-date>January 5, 2009</release-date>
+					<album-songs>
+						<song>"Gee</song>
+						<song>Way to Go!</song>
+						<song>Dear Mom</song>
+						<song>Destiny</song>
+						<song>Let's Talk About Love</song>
+					</album-songs>
+				</album>
+				<album>
+				<album-name>Tell Me Your Wish (Genie)</album-name>
+					<release-date>June 29, 2009</release-date>
+					<album-songs>
+						<song>Tell Me Your Wish (Genie)</song>
+						<song>Etude</song>
+						<song>Girlfriend</song>
+						<song>Boyfriend</song>
+						<song>My Child</song>
+						<song>One Year Later</song>
+					</album-songs>
+				</album>
+				<album>
+				<album-name>Hoot</album-name>
+					<release-date>October 27, 2010</release-date>
+					<album-songs>
+						<song>Hoot</song>
+						<song>Mistake</song>
+						<song>My Best Friend</song>
+						<song>Wake Up</song>
+						<song>Snowy Wish</song>
+					</album-songs>
+				</album>
+				<album>
+				<album-name>Mr.Mr.</album-name>
+					<release-date>February 24, 2014</release-date>
+					<album-songs>
+						<song>Mr.Mr.</song>
+						<song>Goodbye</song>
+						<song>Europa</song>
+						<song>Wait A Minute</song>
+						<song>Back Hug</song>
+						<song>Soul</song>
+					</album-songs>
+				</album>
+			</extended-plays>
+			<singles>
+				<single>
+					<song>Paparazzi</song>
+					<release-date>June 27, 2012</release-date>
+				</single>
+				<single>
+					<song>Dancing Queen</song>
+					<release-date>December 21, 2012</release-date>
+				</single>
+			</singles>
+		</discography>
+	</artist>
+	
+		<artist>
+		<artist-name>Infinite</artist-name>
+		<label>Woollim Entertainment</label>
+			<members>
+				<member-name><leader>SungGyu</leader></member-name>
+				<member-name>Dongwoo</member-name>
+				<member-name>Woohyun</member-name>	
+				<member-name>Hoya</member-name>
+				<member-name>Sungyeol</member-name>
+				<member-name>L</member-name>	
+				<member-name>Sungjong</member-name>
+			</members>
+		<debut>June 2010</debut>
+		<discography>
+			<studio-albums>
+				<album>
+				<album-name>Over the Top</album-name>
+					<release-date> 	July 21, 2011</release-date>
+					<album-songs>
+						<song>Over the Top (Intro)</song>
+						<song>Be Mine</song>
+						<song>1/3</song>
+						<song>Tic Toc</song>
+						<song>Julia</song>
+						<song>Because "Because" (SungGyu solo)</song>
+						<song>Time (WooHyun solo)</song>
+						<song>"Amazing"  </song>
+						<song>Crying (DongWoo/Hoya ft. BabySoul)</song>
+						<song>Real Story</song>
+					</album-songs>
+				</album>
+				<album>
+				<album-name>Season 2</album-name>
+					<release-date>May 21, 2014</release-date>
+					<album-songs>
+						<song>Season 2</song>
+						<song>Last Romeo</song>
+						<song>Follow Me</song>
+						<song>Rocinate</song>
+						<song>Suffocate</song>
+						<song>Light (Sunggyu solo)</song>
+						<song>Alone (ft. Infinite H)</song>
+						<song>Memories</song>
+						<song>Till I...</song>
+						<song>Reflex</song>
+						<song>Crazy (ft. Infinite F)</song>
+						<song>Close My Eyes (Woohyun Solo)</song>
+						<song>I Need U Back</song>
+					</album-songs>
+				</album>
+			</studio-albums>
+			
+			<extended-plays>
+				<album>
+				<album-name>Evolution</album-name>
+					<release-date>January 6, 2011</release-date>
+					<album-songs>
+						<song>Evolution (Intro)</song>
+						<song>BTD (Before the Dawn)</song>
+						<song>Can U Smile</song>
+						<song>Hysterie</song>
+						<song>Voice of My Heart</song>
+						<song>I Don't Know</song>
+					</album-songs>
+				</album>
+				<album>
+				<album-name>Inspirit</album-name>
+					<release-date>March 17, 2011</release-date>
+					<album-songs>
+						<song>Nothing's Over</song>
+						<song>Shot</song>
+						<song>Can U Smile (Remake)</song>
+					</album-songs>
+				</album>
+				<album>
+				<album-name>Infinitize</album-name>
+					<release-date>May 15, 2012</release-date>
+					<album-songs>
+						<song>Infinitize</song>
+						<song>The Chaser</song>
+						<song>Feel So Bad</song>
+						<song>That Year's Summer</song>
+						<song>Only Tears</song>
+						<song>I Like You</song>
+						<song>With...</song>
+					</album-songs>
+				</album>
+				<album>
+				<album-name>New Challenge</album-name>
+					<release-date>March 21, 2013</release-date>
+					<album-songs>
+						<song>Welcome to Our Dream (Intro)</song>
+						<song>Man in Love</song>
+						<song>As Good As It Gets</song>
+						<song>Still I Miss You</song>
+						<song>Beautiful</song>
+						<song>60 seconds</song>
+						<song>An Inconvenient Truth</song>
+					</album-songs>
+				</album>
+				<album>
+				<album-name>Destiny</album-name>
+					<release-date>July 16, 2013</release-date>
+					<album-songs>
+						<song>Destiny</song>
+						<song>Inception</song>
+						<song>Going To You</song>
+						<song>Mother</song>
+					</album-songs>
+				</album>
+			</extended-plays>
+			<singles>
+				<single>
+					<song>Request</song>
+					<release-date>September 27, 2013</release-date>
+				</single>
+			</singles>
+		</discography>
+	</artist>
+	
+		<artist>
+		<artist-name>Miss A</artist-name>
+		<label>JYP Entertainment</label>
+			<members>
+				<member-name>Fei</member-name><!--No leader-->
+				<member-name>Jia</member-name>
+				<member-name>Min</member-name>	
+				<member-name>Suzy</member-name>
+			</members>
+		<debut>July 2010</debut>
+		<discography>
+			<studio-albums>
+				<album>
+				<album-name>A Class</album-name>
+					<release-date>July 18, 2011</release-date>
+					<album-songs>
+						<song>One to Ten</song>
+						<song>Good Bye Baby</song>
+						<song>Help Me</song>
+						<song>Break It</song>
+						<song>Mr. Johnny</song>
+						<song>Play That Music DJ</song>
+						<song>Step Up</song>
+						<song>Breathe</song>
+						<song>Blankly</song>
+						<song>Love Again</song>
+						<song>Love Alone</song>
+						<song>Bad Girl Good Girl</song>
+						<song>Good Bye Baby</song>
+					</album-songs>
+				</album>
+				<album>
+				<album-name>Hush</album-name>
+					<release-date>November 6, 2013</release-date>
+					<album-songs>
+						<song>Come on Over</song>
+						<song>Hush</song>
+						<song>Love Is U</song>
+						<song>Spotlight</song>
+						<song>Hide &amp; Sick</song>
+						<song>(Mama) I'm Good</song>
+						<song>Like U</song>
+						<song>Hush (Party version)</song>
+						<song>Touch</song>
+						<song>Over U</song>
+						<song>Time's Up</song>
+						<song>If I Were a Boy</song>
+						<song>I Don't Need a Man</song>
+					</album-songs>
+				</album>
+			</studio-albums>
+			
+			<extended-plays>
+				
+				<album>
+				<album-name>Bad But Good</album-name>
+					<release-date>July 1, 2010</release-date>
+					<album-songs>
+						<song>Bad Girl Good Girl</song>
+						<song>Looking At Each Other</song>
+						<song>Love Again</song>
+						<song>Break It</song>
+					</album-songs>
+				</album>
+				<album>
+				<album-name>Step Up'</album-name>
+					<release-date>September 27, 2010</release-date>
+					<album-songs>
+						<song>Step Up</song>
+						<song>Breathe</song>
+						<song>Blankly</song>
+						<song>Play That Music DJ</song>
+					</album-songs>
+				</album>
+				<album>
+				<album-name>Touch</album-name>
+					<release-date>February 20, 2012</release-date>
+					<album-songs>
+						<song>Touch</song>
+						<song>Lips</song>
+						<song>Rock n Rule</song>
+						<song>No Mercy</song>
+						<song>Over U</song>
+						<song>Touch (Newport Mix)</song>
+					</album-songs>
+				</album>
+				<album>
+				<album-name>Independent Women Part III</album-name>
+					<release-date>October 15, 2012</release-date>
+					<album-songs>
+						<song>I Don't Need a Man</song>
+						<song>Ma Style</song>
+						<song>If I Were a Boy</song>
+						<song>Madness (Ft. Taecyeon of 2PM)</song>
+						<song>Time's Up</song>
+					</album-songs>
+				</album>
+			</extended-plays>
+			
+			<singles>
+				<single>
+					<song>Love Alone</song>
+					<release-date>March 2, 2011</release-date>
+				</single>
+			</singles>
+		</discography>
+	</artist>
+	
+		<artist>
+		<artist-name>SECRET</artist-name>
+		<label>TS Entertainment</label>
+			<members>
+				<member-name><leader>Hyoseong</leader></member-name>
+				<member-name>Hana</member-name>
+				<member-name>Jieun</member-name>	
+				<member-name>Sunhwa</member-name>
+			</members>
+		<debut>October 2009</debut>
+		<discography>
+			<studio-albums>
+				<album>
+				<album-name>Moving in Secret</album-name>
+					<release-date>October 18, 2011</release-date>
+					<album-songs>
+						<song>Love is Move</song>
+						<song>Sexy</song>
+						<song>Don't Laugh</song>
+						<song>Movie Star</song>
+						<song>AMAZINGER (Hana solo)</song>
+						<song>Together</song>
+						<song>I Hope</song>
+						<song>Bastard</song>
+						<song>Neverland</song>
+						<song>Love is Move
+						(Instrumental)</song>
+					</album-songs>
+				</album>
+			</studio-albums>
+			
+			<extended-plays>
+				<album>
+				<album-name>I Want You Back</album-name>
+					<release-date>October 31, 2009</release-date>
+					<album-songs>
+						<song>3 Years &amp; 6 Months</song>
+						<song>I Want You Back</song>
+					</album-songs>
+				</album>
+				<album>
+				<album-name>Secret Time</album-name>
+					<release-date>April 1, 2010</release-date>
+					<album-songs>
+						<song>My Boy</song>
+						<song>Magic</song>
+						<song>Spotlight</song>
+						<song>Do As You Please</song>
+						<song>I Want You Back (Acoustic Version)</song>
+						<song>3 Years, 6 Months (Acoustic Version)</song>
+					</album-songs>
+				</album>
+				<album>
+				<album-name>Madonna</album-name>
+					<release-date>August 12, 2010</release-date>
+					<album-songs>
+						<song>Madonna</song>
+						<song>La La La</song>
+						<song>Do It Better (ft. Baekchan of 8eight)</song>
+						<song>Hesitant</song>
+						<song>Empty Space</song>
+					</album-songs>
+				</album>
+				<album>
+				<album-name>Starlight MoonLight</album-name>
+					<release-date>June 1, 2011</release-date>
+					<album-songs>
+						<song>Oh! Honey</song>
+						<song>Starlight Moonlight</song>
+						<song>Romantic Movie</song>
+					</album-songs>
+				</album>
+				<album>
+				<album-name>Poison</album-name>
+					<release-date>September 13, 2012</release-date>
+					<album-songs>
+						<song>Telepathy</song>
+						<song>Poison</song>
+						<song>Falling in Love</song>
+						<song>Calling U</song>
+						<song>1, 2, 3</song>
+					</album-songs>
+				</album>
+				<album>
+				<album-name>Letter from Secret</album-name>
+					<release-date>April 30, 2013</release-date>
+					<album-songs>
+						<song>YooHoo</song>
+						<song>Daddy Long Legs</song>
+						<song>ONLY U</song>
+						<song>B.O.Y (Because of You)</song>
+					</album-songs>
+				</album>
+				<album>
+				<album-name>Gift From Secret</album-name>
+					<release-date>December 9, 2013</release-date>
+					<album-songs>
+						<song>Snowmelt</song>
+						<song>I Do I Do</song>
+						<song>Remember Me</song>
+						<song>Fantastic</song>
+					</album-songs>
+				</album>
+				<album>
+				<album-name>Secret Summer</album-name>
+					<release-date>August 11, 2014</release-date>
+					<album-songs>
+						<song>Feel the Secret (Intro)</song>
+						<song>I'm in Love</song>
+						<song>Look at Me</song>
+						<song>U R Fired</song>
+						<song>I Would Do Well</song>
+						<song>I'm in Love (Instrumental)</song>
+					</album-songs>
+				</album>
+			</extended-plays>
+			
+			<singles>
+				<single>
+					<song>Talk That</song>
+					<release-date>December 4, 2012</release-date>
+				</single>
+			</singles>
+		</discography>
+	</artist>
+	
+		<artist>
+		<artist-name>SHINee</artist-name>
+		<label>SM Entertainment </label>
+			<members>
+				<member-name><leader>Onew</leader></member-name>
+				<member-name>Jonghyun</member-name>
+				<member-name>Jonghyun</member-name>	
+				<member-name>Minho</member-name>
+				<member-name>Taemin</member-name>
+			</members>
+		<debut>May 22, 2008</debut>
+		<discography>
+			<studio-albums>
+				<album>
+				<album-name>The Shinee World</album-name>
+					<release-date>August 29, 2008</release-date>
+					<album-songs>
+						<song>The Shinee World (Doo-Bop)</song>
+						<song>Love's Way</song>
+						<song>Love Like Oxygen</song>
+						<song>Romantic</song>
+						<song>One For Me</song>
+						<song>Graze</song>
+						<song>Last Gift (In My Room) [Prelude]</song>
+						<song>Best Place</song>
+						<song>Y Si Fuera Ella</song>
+						<song>Four Seasons</song>
+						<song>In My Room (Unplugged Mix)</song>
+						<song>Replay</song>
+					</album-songs>
+				</album>
+				<album>
+				<album-name>Amigo</album-name>
+					<release-date>October 28, 2008</release-date>
+					<album-songs>
+						<song>Amigo</song>
+						<song>Forever or Never</song>
+						<song>Love Like Oxygen</song>
+						<song>Plugged by DJ OneShot [Love Should Go On]</song>
+						<song>Replay</song>
+						<song>Romantic</song>
+						<song>Love's Way</song>
+						<song>One For Me</song>
+						<song>Graze</song>
+						<song>Last Gift (In My Room) [Prelude]</song>
+						<song>Best Place</song>
+						<song>Y Si Fuera Ella</song>
+						<song>Four Seasons</song>
+						<song>In My Room (Unplugged Mix)</song>
+						<song>The Shinee World (Doo-Bop)</song>
+					</album-songs>
+				</album>
+				<album>
+				<album-name>Lucifer</album-name>
+					<release-date>July 19, 2010</release-date>
+					<album-songs>
+						<song>Up &amp; Down</song>
+						<song>Lucifer</song>
+						<song>Electric Heart</song>
+						<song>A-Yo</song>
+						<song>Obsession</song>
+						<song>Quasimodo</song>
+						<song>Shout Out</song>
+						<song>Wowowow</song>
+						<song>Your Name</song>
+						<song>Life</song>
+						<song>Ready or Not</song>
+						<song>Love Pain</song>
+						<song>Love Still Goes On</song>
+					</album-songs>
+				</album>
+				<album>
+				<album-name>Dream Girl – The Misconceptions of You</album-name>
+					<release-date>February 19, 2013</release-date>
+					<album-songs>
+						<song>Spoiler</song>
+						<song>Dream Girl</song>
+						<song>Hitchhiking</song>
+						<song>Punch Drunk Love</song>
+						<song>Girls, Girls, Girls</song>
+						<song>Aside</song>
+						<song>Beautiful</song>
+						<song>Dynamite</song>
+						<song>Runaway</song>
+					</album-songs>
+				</album>
+				<album>
+				<album-name>Why So Serious? – The Misconceptions of Me</album-name>
+					<release-date>April 26, 2013</release-date>
+					<album-songs>
+						<song>Nightmare</song>
+						<song>"Why So Serious?"  </song>
+						<song>Shine (Medusa I)</song>
+						<song>Music Box (Orgel)</song>
+						<song>Dangerous (Medusa II)</song>
+						<song>Like a Fire</song>
+						<song>Excuse Me Miss</song>
+						<song>Evil</song>
+						<song>(Can't Leave) (Sleepless Night)</song>
+					</album-songs>
+				</album>
+			</studio-albums>
+			
+			<extended-plays>
+				<album>
+				<album-name>Replay</album-name>
+					<release-date>May 22, 2008</release-date>
+					<album-songs>
+						<song>Replay</song>
+						<song>In My Room</song>
+						<song>Real</song>
+						<song>Love Should Go On</song>
+						<song>Replay (Boom Track)</song>
+					</album-songs>
+				</album>
+				<album>
+				<album-name>Romeo</album-name>
+					<release-date>May 25, 2009</release-date>
+					<album-songs>
+						<song>Talk to You</song>
+						<song>Juliette</song>
+						<song>Hit Me</song>
+						<song>Senorita</song>
+						<song>Please, Don't Go</song>
+						<song>Romeo + Juliette</song>
+					</album-songs>
+				</album>
+				<album>
+				<album-name>2009, Year of Us</album-name>
+					<release-date>October 22, 2009</release-date>
+					<album-songs>
+						<song>Y.O.U (Year of Us)</song>
+						<song>Ring Ding Dong</song>
+						<song>Jo Jo</song>
+						<song>Get Down" (Key + Minho ft. Luna from f(x))</song>
+						<song>Shinee Girl</song>
+						<song>The Name I Loved (Onew feat. Kim Yeon-woo)</song>
+					</album-songs>
+				</album>
+				<album>
+				<album-name>Sherlock</album-name>
+					<release-date>March 21, 2012</release-date>
+					<album-songs>
+						<song>Sherlock (Clue + Note)</song>
+						<song>Clue</song>
+						<song>Note</song>
+						<song>Alarm Clock</song>
+						<song>The Reason</song>
+						<song>Stranger</song>
+						<song>Honesty</song>
+					</album-songs>
+				</album>
+				<album>
+				<album-name>Everybody</album-name>
+					<release-date>October 14, 2013</release-date>
+					<album-songs>
+						<song>Everybody</song>
+						<song>Symptoms</song>
+						<song>Queen of New York</song>
+						<song>One Minute Back</song>
+						<song>Destination</song>
+						<song>Close the Door</song>
+						<song>Colorful</song>
+					</album-songs>
+				</album>
+			</extended-plays>
+			
+			<singles>
+				<single>
+					<song>N/A</song>
+				</single>
+			</singles>
+		</discography>
+	</artist>
+	
+	<artist>
+		<artist-name>SISTAR</artist-name>
+		<label>Starship Entertainment</label>
+			<members>
+				<member-name><leader>Hyorin</leader></member-name>
+				<member-name>Bora</member-name>
+				<member-name>Soyou</member-name>	
+				<member-name>Dasom</member-name>
+			</members>
+		<debut>June 2010</debut>
+		<discography>
+			<studio-albums>
+				<album>
+				<album-name>So Cool</album-name>
+					<release-date>August 9, 2011</release-date>
+					<album-songs>
+						<song>Let’s Get the Party Started</song>
+						<song>So Cool</song>
+						<song>Girls Do It</song>
+						<song>Follow Me</song>
+						<song>New World</song>
+						<song>I Don't Want a Weak Man</song>
+						<song>How Dare You</song>
+						<song>Over</song>
+						<song>Oh Baby</song>
+						<song>Shady Girl</song>
+						<song>Push Push</song>
+						<song>Ma Boy (Special version)</song>
+					</album-songs>
+				</album>
+				<album>
+				<album-name>Give It to Me</album-name>
+					<release-date>June 11, 2013</release-date>
+					<album-songs>
+						<song>Miss Sistar (ft. Duble Sidekick, Joohun)</song>
+						<song>The Way You Make Me Melt (ft. Geeks)</song>
+						<song>Bad Boy</song>
+						<song>Summer Time</song>
+						<song>A Week</song>
+						<song>Crying</song>
+						<song>Hey You</song>
+						<song>If U Want</song>
+						<song>Up and Down</song>
+						<song>Give It to Me (Instrumental)</song>
+					</album-songs>
+				</album>
+			</studio-albums>
+			
+			<extended-plays>
+				<album>
+				<album-name>Push Push</album-name>
+					<release-date>June 3, 2010</release-date>
+					<album-songs>
+						<song>Here We Come</song>
+						<song>Push Push</song>
+						<song>Oh Baby</song>
+						<song>Push Push (Instrumental)</song>
+						<song></song>
+						<song></song>
+						<song></song>
+					</album-songs>
+				</album>
+				<album>
+				<album-name>Shady Girl</album-name>
+					<release-date>August 25, 2010</release-date>
+					<album-songs>
+						<song>Drop the Beat (feat. B2K)</song>
+						<song>Shady Girl</song>
+						<song>I Don't Want a Weak Man</song>
+						<song>"Shady Girl (Instrumental)</song>
+					</album-songs>
+				</album>
+				<album>
+				<album-name>How Dare You</album-name>
+					<release-date>December 3, 2010</release-date>
+					<album-songs>
+						<song>Mighty SISTAR</song>
+						<song>Over</song>
+						<song>How Dare You</song>
+						<song>How Dare You (Instrumental)</song>
+					</album-songs>
+				</album>
+				<album>
+				<album-name>Alone</album-name>
+					<release-date>April 12, 2012</release-date>
+					<album-songs>
+						<song>Come Closer</song>
+						<song>Alone</song>
+						<song>No Mercy</song>
+						<song>Lead Me</song>
+						<song>Girls On Top</song>
+						<song>I Choose to Love You (Hyorin Solo)</song>
+						<song>Alone (Instrumental)</song>
+					</album-songs>
+				</album>
+				<album>
+				<album-name>Loving U</album-name>
+					<release-date>June 28, 2012</release-date>
+					<album-songs>
+						<song>Loving U</song>
+						<song>Holiday</song>
+						<song>Push Push (DJ Rubato Remix)</song>
+						<song>Alone (Smells Remix)</song>
+						<song>Ma Boy (Smells Remix)</song>
+						<song>How Dare You (Demicat Remix)</song>
+						<song>So Cool (DJ Rubato Remix)</song>
+					</album-songs>
+				</album>
+				<album>
+				<album-name>Touch &amp; Move</album-name>
+					<release-date>July 21, 2014</release-date>
+					<album-songs>
+						<song>WOW</song>
+						<song>Touch My Body</song>
+						<song>Naughty Hands (ft. Verbal Jint)</song>
+						<song>But I Love U</song>
+						<song>Ok Go!</song>
+						<song>Sunshine</song>
+					</album-songs>
+				</album>
+				<album>
+				<album-name>Sweet &amp; Sour</album-name>
+					<release-date>August 26, 2014</release-date>
+					<album-songs>
+						<song>I Swear</song>
+						<song>Hold On Tight</song>
+						<song>Touch My Body (Glen Check Remix)</song>
+						<song>Loving U (House Rulez Remix)</song>
+						<song>Give It To Me (Reno Remix)</song>
+						<song>Gone Not Around Any Longer (Smells Remix)</song>
+					</album-songs>
+				</album>
+			</extended-plays>
+			
+			<singles>
+				<single>
+					<song>Hot Place</song>
+					<release-date>October 31, 2011</release-date>
+				</single>
+				<single>
+					<song>Snow Candy</song>
+					<release-date>December 13, 2013</release-date>
+				</single>
+			</singles>
+		</discography>
+	</artist>
+	
+	<artist>
+		<artist-name>Super Junior</artist-name>
+		<label>SM Entertainment</label>
+			<members>
+				<member-name><leader>Leeteuk</leader></member-name>
+				<member-name>Heechul</member-name>
+				<member-name>Yesung</member-name>	
+				<member-name>Kangin</member-name>
+				<member-name>Shindong</member-name>	
+				<member-name>Sungmin</member-name>
+				<member-name>Eunhyuk</member-name>	
+				<member-name>Donghae</member-name>
+				<member-name>Siwon</member-name>	
+				<member-name>Ryeowook</member-name>
+				<member-name>Kibum</member-name>	
+				<member-name>Kyuhyun</member-name>
+			</members>
+		<debut>November 2005</debut>
+		<discography>
+			<studio-albums>
+				<album>
+				<album-name>Super Junior 05</album-name>
+					<release-date>December 5, 2005</release-date>
+					<album-songs>
+						<song>Miracle</song>
+						<song>Twins (Knoct Out)</song>
+						<song>You are the One</song>
+						<song>Rock This House</song>
+						<song>Way for Love</song>
+						<song>So I</song>
+						<song>Over</song>
+						<song>Keep in Touch</song>
+						<song>L.O.V.E</song>
+						<song>Believe</song>
+						<song>Twins (Knoct Out) [Instrumental]</song>
+					</album-songs>
+				</album>
+				<album>
+				<album-name>Don't Don</album-name>
+					<release-date>September 20, 2007</release-date>
+					<album-songs>
+						<song>Don't Don</song>
+						<song>Sapphire Blue</song>
+						<song>You're My Endless Love</song>
+						<song>Hate U, Love U</song>
+						<song>Disco Drive</song>
+						<song>Marry U</song>
+						<song>I Am</song>
+						<song>She's Gone</song>
+						<song>Missin' U</song>
+						<song>Mirror</song>
+						<song>Our Love</song>
+						<song>Midnight Fantasy</song>
+						<song>Thank You</song>
+						<song>Song for You</song>
+					</album-songs>
+				</album>
+				<album>
+				<album-name>Sorry, Sorry</album-name>
+					<release-date>March 11, 2009</release-date>
+					<album-songs>
+						<song>Sorry, Sorry</song>
+						<song>Why I Like You</song>
+						<song>Let's Not...</song>
+						<song>Angela</song>
+						<song>Reset</song>
+						<song>Monster</song>
+						<song>What If</song>
+						<song>Heartquake (ft. U-know from TVXQ)</song>
+						<song>Club No.1 (ft. Yeonhee Lee)</song>
+						<song>Happy Together</song>
+						<song>Dead At Heart</song>
+						<song>Shing Star</song>
+					</album-songs>
+				</album>
+				<album>
+				<album-name>Bonamana</album-name>
+					<release-date>May 13, 2010</release-date>
+					<album-songs>
+						<song>Bonamana</song>
+						<song>Boom Boom</song>
+						<song>Coagulation</song>
+						<song>Your Eyes</song>
+						<song>My Only Girl</song>
+						<song>Shake It Up!</song>
+						<song>In My Dream</song>
+						<song>One Fine Spring Day</song>
+						<song>Good Person</song>
+						<song>Here We Go</song>
+					</album-songs>
+				</album>
+				<album>
+				<album-name>Mr. Simple</album-name>
+					<release-date>August 2, 2011</release-date>
+					<album-songs>
+						<song>Mr. Simple</song>
+						<song>Opera</song>
+						<song>Be My Girl</song>
+						<song>Walkin'</song>
+						<song>Storm</song>
+						<song>Good Friends</song>
+						<song>Feels Good</song>
+						<song>Memories</song>
+						<song>Sunflower</song>
+						<song>White Christmas</song>
+						<song>Y</song>
+						<song>My Love, My Kiss, My Heart</song>
+						<song>Perfection</song>
+					</album-songs>
+				</album>
+				<album>
+				<album-name>Sexy, Free &amp; Single</album-name>
+					<release-date></release-date>
+					<album-songs>
+						<song>Sexy Free &amp; Single</song>
+						<song>From U</song>
+						<song>Now</song>
+						<song>Rockstar</song>
+						<song>Gulliver</song>
+						<song>Someday</song>
+						<song>Bittersweet</song>
+						<song>Butterfly</song>
+						<song>Daydream</song>
+						<song>A 'Good'bye</song>
+					</album-songs>
+				</album>
+				<album>
+				<album-name>Mamacita</album-name>
+					<release-date>August 29, 2014</release-date>
+					<album-songs>
+						<song>Mamacita</song>
+						<song>Midnight Blues</song>
+						<song>Evanesce</song>
+						<song>Raining Spell for Love</song>
+						<song>Shirt</song>
+						<song>This Is Love</song>
+						<song>Let's Dance</song>
+						<song>Too many Beautiful Girls</song>
+						<song>Mid-season</song>
+						<song>Islands</song>
+					</album-songs>
+				</album>
+			</studio-albums>
+			
+			<extended-plays>
+				<album>
+				<album-name>It's You</album-name>
+					<release-date>May 14, 2009</release-date>
+					<album-songs>
+						<song>It's You</song>
+						<song>She Wants It</song>
+						<song>Love Disease</song>
+						<song>Love U More</song>
+					</album-songs>
+				</album>
+			</extended-plays>
+			
+			<singles>
+				<single>
+					<song>Knock Knock Knock</song>
+					<release-date>August 16, 2010</release-date>
+				</single>
+			</singles>
+		</discography>
+	</artist>
+	
+		<artist>
+		<artist-name>T-ARA</artist-name>
+		<label>Core Contents Media</label>
+			<members>
+				<member-name><leader>Qri</leader></member-name>
+				<member-name>Boram</member-name>
+				<member-name>Soyeon</member-name>	
+				<member-name>Eunjung</member-name>
+				<member-name>Jiyeon</member-name>
+				<member-name>Hyomin</member-name>
+			</members>
+		<debut>July 2009</debut>
+		<discography>
+			<studio-albums>
+				<album>
+					<album-name>N/A</album-name>
+				</album>
+			</studio-albums>
+			
+			<extended-plays>
+				<album>
+				<album-name>John Travolta Wanna Be</album-name>
+					<release-date>June 28, 2011</release-date>
+					<album-songs>
+						<song>Roly-Poly</song>
+						<song>I Love You So Much</song>
+						<song>Yayaya (remix ver.)</song>
+						<song>Why Are You Being Like This (remix ver.)</song>
+						<song>Ma Boo (remix ver.)</song>
+						<song>I Don't Know (remix ver.)</song>
+						<song>It's Allright (remix ver.)</song>
+					</album-songs>
+				</album>
+				<album>
+				<album-name>Black Eyes</album-name>
+					<release-date>November 11, 2011</release-date>
+					<album-songs>
+						<song>Cry Cry</song>
+						<song>Goodbye, OK</song>
+						<song>O My God</song>
+						<song>I'm So Bad</song>
+						<song>Cry Cry (Ballad Version) [Remix]</song>
+						<song>Cry Cry (Ballad Music Video Version) [Remix]</song>
+					</album-songs>
+				</album>
+				<album>
+				<album-name>Funky Town</album-name>
+					<release-date>January 2, 2012</release-date>
+					<album-songs>
+						<song>Lovey-Dovey</song>
+						<song>We Were in Love</song>
+						<song>Lovey-Dovey (Club Remix ver.) [Remix]</song>
+						<song>Cry Cry</song>
+						<song>Goodbye, OK</song>
+						<song>O My God</song>
+						<song>I'm So Bad</song>
+						<song>Cry Cry (Ballad Version) [Remix]</song>
+					</album-songs>
+				</album>
+				<album>
+				<album-name>Day By Day</album-name>
+					<release-date>July 3, 2012</release-date>
+					<album-songs>
+						<song>Day By Day</song>
+						<song>Holiday</song>
+						<song>Don't Leave Me Alone</song>
+						<song>Hue</song>
+						<song>Keep Out</song>
+					</album-songs>
+				</album>
+				<album>
+				<album-name>Again</album-name>
+					<release-date>October 10, 2013</release-date>
+					<album-songs>
+						<song>Number 9</song>
+						<song>Because I Know</song>
+						<song>I'm In Pain</song>
+						<song>Don't Get Married</song>
+						<song>Number 9 (Club Version)</song>
+					</album-songs>
+				</album>
+				<album>
+				<album-name>And&amp;End</album-name>
+					<release-date>September 11, 2014</release-date>
+					<album-songs>
+						<song>Sugar Free (BigRoom Version)</song>
+						<song>Sugar Free</song>
+						<song>I Don't Want You</song>
+						<song>ORGR</song>
+						<song>Calendar</song>
+						<song>If I See Her</song>
+						<song>Sugar Free (BigRoom Version) [Instrumental]</song>
+					</album-songs>
+				</album>
+			</extended-plays>
+			
+			<singles>
+				<single>
+					<song>Time to Love</song>
+					<release-date>September 15, 2009</release-date>
+				</single>
+				<single>
+					<song>T-ara Beautiful Girl</song>
+					<release-date>February 10, 2011</release-date>
+				</single>
+				<single>
+					<song>Hommage to Lovey Dovey</song>
+					<release-date>February 14, 2012</release-date>
+				</single>
+				<single>
+					<song>First Love</song>
+					<release-date>February 21, 2014</release-date>
+				</single>
+			</singles>
+		</discography>
+	</artist>
+	
+	<artist>
+		<artist-name>VIXX</artist-name>
+		<label>Jellyfish Entertainment</label>
+			<members>
+				<member-name><leader>N</leader></member-name>
+				<member-name>Leo</member-name>
+				<member-name>Ken</member-name>	
+				<member-name>Ravi</member-name>
+				<member-name>Hongbin</member-name>
+				<member-name>Hyuk</member-name>
+			</members>
+		<debut>May 2012</debut>
+		<discography>
+			<studio-albums>
+				<album>
+				<album-name>Voodoo</album-name>
+					<release-date>November 25, 2013</release-date>
+					<album-songs>
+						<song>Voodoo</song>
+						<song>Voodoo Doll</song>
+						<song>Beautiful Killer</song>
+						<song>Someday</song>
+						<song>Only U</song>
+						<song>B.O.D.Y</song>
+						<song>Secret Night</song>
+						<song>Say U Say Me</song>
+						<song>From Now On, You're Mine</song>
+						<song>Thank You for Being Born</song>
+						<song>Super Hero</song>
+						<song>Roch Ur Body</song>
+						<song>On and On</song>
+						<song>Hyde</song>
+						<song>Voodoo Doll (Instrumental)</song>
+					</album-songs>
+				</album>
+			</studio-albums>
+			
+			<extended-plays>
+				<album>
+				<album-name>Super Hero</album-name>
+					<release-date>May 24, 2012</release-date>
+					<album-songs>
+						<song>Super Hero</song>
+						<song>Starlight</song>
+						<song>Super Hero (Instrumental)</song>
+					</album-songs>
+				</album>
+				<album>
+				<album-name>Rock Ur Body</album-name>
+					<release-date>August 14, 2012</release-date>
+					<album-songs>
+						<song>Rock Ur Body</song>
+						<song>UUUUU</song>
+						<song>Rock Ur Body (Instrumental)</song>
+					</album-songs>
+				</album>
+				<album>
+				<album-name>On and On</album-name>
+					<release-date>January 17, 2013</release-date>
+					<album-songs>
+						<song>On and On</song>
+						<song>Don't Want to Be an Idol</song>
+						<song>On and On (Instrumental)</song>
+					</album-songs>
+				</album>
+				<album>
+				<album-name>Hyde</album-name>
+					<release-date>May 20, 2013</release-date>
+					<album-songs>
+						<song>Light Me Up</song>
+						<song>Hyde</song>
+						<song>You're Mine (ft. Minah)</song>
+						<song>Chaos</song>
+						<song>Love Letter</song>
+						<song>Hyde (Instrumental)</song>
+					</album-songs>
+				</album>
+				<album>
+				<album-name>Jekyll</album-name>
+					<release-date>July 31, 2013</release-date>
+					<album-songs>
+						<song>Jekyll</song>
+						<song>G.R.8.U</song>
+						<song>Say Love</song>
+						<song>Light Me Up</song>
+						<song>Hyde</song>
+						<song>You're Mine (ft. Minah)</song>
+						<song>Chaos</song>
+						<song>Love Letter</song>
+						<song>G.R.8.U (Instrumental)</song>
+					</album-songs>
+				</album>
+				<album>
+				<album-name>Eternity</album-name>
+					<release-date>May 27, 2014</release-date>
+					<album-songs>
+						<song>Eternity</song>
+						<song>Sad Ending</song>
+						<song>Love, LaLaLa</song>
+						<song>Eternity (Instrumental)</song>
+					</album-songs>
+				</album>
+				<album>
+				<album-name>Error</album-name>
+					<release-date>October 14, 2014</release-date>
+					<album-songs>
+						<song>Steel Heart</song>
+						<song>Error</song>
+						<song>After Dark</song>
+						<song>Blue Blossom</song>
+						<song>Time Machine</song>
+						<song>What U Waiting For</song>
+						<song>Error (Instrumental)</song>
+					</album-songs>
+				</album>
+			</extended-plays>
+			
+			<singles>
+				<single>
+					<song>Only U</song>
+					<release-date>November 8, 2013</release-date>
+				</single>
+			</singles>
+		</discography>
+	</artist>
+</kpop-artists>
